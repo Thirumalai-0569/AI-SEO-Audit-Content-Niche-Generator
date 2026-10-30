@@ -1,0 +1,241 @@
+post_id,platform,topic,posting_time,duration_seconds,title_keyword_score,hashtag_relevance,historical_engagement_rate,success,views,likes,comments,shares
+post_001,YouTube,Python,Morning,468,0.422,0.795,5.293,0,4890,2575,304,358
+post_002,YouTube Shorts,Cooking,Morning,54,0.459,0.818,5.0,1,20240,2880,218,221
+post_003,Instagram Reels,Career Tips,Afternoon,32,0.704,0.487,5.181,0,31656,2452,141,33
+post_004,Instagram Posts,Education,Night,48,0.544,0.597,4.558,1,27419,541,297,341
+post_005,YouTube,Education,Morning,451,0.549,0.568,2.135,1,23583,1621,51,343
+post_006,YouTube Shorts,Career Tips,Morning,40,0.76,0.794,4.578,0,21873,2817,336,193
+post_007,Instagram Reels,Personal Finance,Night,36,0.804,0.7,4.822,1,566,2731,265,235
+post_008,Instagram Posts,Cooking,Night,36,0.536,0.545,3.105,1,22092,2340,261,235
+post_009,YouTube,Personal Finance,Morning,346,0.563,0.689,4.655,1,28048,2110,12,173
+post_010,YouTube Shorts,Career Tips,Morning,89,0.592,0.43,1.56,1,42812,986,367,146
+post_011,Instagram Reels,Career Tips,Afternoon,65,0.545,0.689,4.726,0,20438,1125,66,167
+post_012,Instagram Posts,Python,Morning,23,0.391,0.748,2.755,1,46914,534,198,348
+post_013,YouTube,Career Tips,Evening,276,0.61,0.584,3.457,1,18218,1200,47,169
+post_014,YouTube Shorts,Education,Night,42,0.449,0.592,5.939,0,13204,2509,315,224
+post_015,Instagram Reels,Cooking,Evening,35,0.44,0.599,5.113,1,10277,2830,231,273
+post_016,Instagram Posts,Artificial Intelligence,Night,50,0.644,0.565,4.019,1,7183,2045,37,324
+post_017,YouTube,Fitness,Morning,64,0.666,0.7,6.047,1,16627,2372,41,87
+post_018,YouTube Shorts,Productivity,Morning,75,0.445,0.59,1.122,0,14878,81,60,479
+post_019,Instagram Reels,Career Tips,Evening,51,0.693,0.811,7.194,0,24637,565,228,271
+post_020,Instagram Posts,Career Tips,Afternoon,76,0.467,0.585,2.498,1,18311,2892,3,448
+post_021,YouTube,Productivity,Morning,97,0.423,0.359,2.725,0,14205,2556,290,469
+post_022,YouTube Shorts,Cooking,Morning,39,0.53,0.447,1.863,1,27430,1299,123,414
+post_023,Instagram Reels,Career Tips,Evening,76,0.449,0.828,4.293,1,25849,3469,374,90
+post_024,Instagram Posts,Artificial Intelligence,Morning,55,0.385,0.43,3.911,0,42313,3117,89,446
+post_025,YouTube,Artificial Intelligence,Afternoon,319,0.891,0.699,2.86,1,18808,2578,298,189
+post_026,YouTube Shorts,Machine Learning,Night,15,0.356,0.957,6.703,1,37387,629,146,299
+post_027,Instagram Reels,Cooking,Afternoon,81,0.911,0.499,4.758,1,48596,1519,57,467
+post_028,Instagram Posts,Python,Morning,28,0.648,0.776,0.0,1,46389,2430,306,290
+post_029,YouTube,Career Tips,Night,132,0.563,0.825,1.212,1,6726,1986,371,40
+post_030,YouTube Shorts,Data Science,Afternoon,88,0.831,0.757,6.007,1,48022,3236,199,12
+post_031,Instagram Reels,Productivity,Evening,57,0.665,0.465,3.763,0,21071,582,238,90
+post_032,Instagram Posts,Education,Night,71,0.337,0.554,4.168,1,14539,2903,100,398
+post_033,YouTube,Career Tips,Morning,151,0.597,0.469,2.647,1,18834,399,260,481
+post_034,YouTube Shorts,Personal Finance,Afternoon,35,1.0,0.428,1.626,0,47965,370,352,33
+post_035,Instagram Reels,Career Tips,Night,60,0.698,0.971,1.824,0,7364,2095,66,77
+post_036,Instagram Posts,Machine Learning,Morning,58,0.355,0.617,3.121,1,41583,188,171,295
+post_037,YouTube,Productivity,Evening,413,0.661,0.723,3.696,0,43775,1878,17,246
+post_038,YouTube Shorts,Artificial Intelligence,Morning,82,1.0,0.943,4.295,1,552,1308,370,261
+post_039,Instagram Reels,Personal Finance,Evening,22,0.868,0.707,4.464,0,5135,2802,361,119
+post_040,Instagram Posts,Education,Night,39,0.683,0.669,3.074,1,41337,1877,129,257
+post_041,YouTube,Education,Morning,517,0.117,0.617,3.918,1,13469,1518,191,82
+post_042,YouTube Shorts,Career Tips,Morning,60,0.323,0.815,3.009,1,9309,2400,94,148
+post_043,Instagram Reels,Cooking,Afternoon,87,0.747,0.972,5.719,0,26864,1713,261,101
+post_044,Instagram Posts,Personal Finance,Evening,57,0.643,0.534,5.381,1,29952,2432,201,430
+post_045,YouTube,Education,Evening,92,0.864,0.795,6.877,0,4407,2532,54,479
+post_046,YouTube Shorts,Education,Night,27,0.932,0.775,2.342,0,4687,888,288,295
+post_047,Instagram Reels,Python,Afternoon,22,0.692,0.868,4.696,1,23406,2547,305,460
+post_048,Instagram Posts,Cooking,Afternoon,54,0.217,0.554,4.664,1,36117,308,195,328
+post_049,YouTube,Cooking,Evening,260,0.516,0.806,5.523,1,44938,2221,108,397
+post_050,YouTube Shorts,Data Science,Afternoon,55,0.599,0.729,5.4,1,36927,1342,51,364
+post_051,Instagram Reels,Artificial Intelligence,Morning,57,0.466,0.696,5.12,0,18942,19,287,423
+post_052,Instagram Posts,Education,Morning,47,1.0,0.623,0.0,1,1812,2401,217,6
+post_053,YouTube,Python,Afternoon,281,0.31,0.435,0.718,1,22227,1805,367,369
+post_054,YouTube Shorts,Cooking,Morning,56,0.168,0.67,2.751,0,2352,374,266,499
+post_055,Instagram Reels,Python,Night,65,0.658,0.797,4.013,1,1644,1587,57,427
+post_056,Instagram Posts,Cooking,Morning,76,0.551,0.754,3.121,1,7985,182,327,302
+post_057,YouTube,Education,Evening,484,0.334,0.24,2.379,0,40087,422,308,423
+post_058,YouTube Shorts,Fitness,Night,77,0.616,0.904,3.766,0,22549,544,325,367
+post_059,Instagram Reels,Python,Evening,29,0.558,0.805,6.697,1,30654,247,246,2
+post_060,Instagram Posts,Python,Night,31,0.264,0.827,2.511,1,18943,3430,236,229
+post_061,YouTube,Productivity,Morning,474,0.592,0.719,4.251,1,47312,1465,231,268
+post_062,YouTube Shorts,Fitness,Evening,34,0.853,0.729,3.364,1,45703,1660,51,59
+post_063,Instagram Reels,Education,Night,25,0.662,0.854,2.078,1,30627,3400,164,76
+post_064,Instagram Posts,Career Tips,Morning,78,0.215,0.459,2.774,1,23968,1660,59,112
+post_065,YouTube,Python,Evening,350,0.7,0.587,3.088,1,32691,863,314,171
+post_066,YouTube Shorts,Productivity,Afternoon,29,0.631,1.0,4.002,1,28004,3102,51,460
+post_067,Instagram Reels,Personal Finance,Evening,53,0.596,0.52,4.375,1,41901,147,46,27
+post_068,Instagram Posts,Python,Night,81,0.703,0.608,4.417,1,36592,1099,26,371
+post_069,YouTube,Education,Evening,23,0.232,0.391,6.055,1,7849,2340,47,254
+post_070,YouTube Shorts,Data Science,Night,53,1.0,0.738,2.593,1,7374,2469,301,193
+post_071,Instagram Reels,Education,Afternoon,63,0.613,0.802,4.22,1,8354,1463,334,460
+post_072,Instagram Posts,Education,Evening,87,0.452,0.9,3.256,1,42178,1375,131,40
+post_073,YouTube,Personal Finance,Afternoon,457,0.682,0.942,2.949,0,9210,3292,17,316
+post_074,YouTube Shorts,Machine Learning,Afternoon,29,0.522,0.867,0.0,1,13589,854,336,421
+post_075,Instagram Reels,Personal Finance,Evening,63,0.594,0.614,3.313,1,3093,2603,215,440
+post_076,Instagram Posts,Data Science,Night,85,0.741,0.713,7.263,1,21657,3183,121,293
+post_077,YouTube,Artificial Intelligence,Night,513,0.381,0.5,3.473,0,45883,1371,71,4
+post_078,YouTube Shorts,Data Science,Morning,39,0.598,0.542,4.587,1,7291,2095,226,3
+post_079,Instagram Reels,Career Tips,Night,36,0.45,0.694,0.981,1,31093,3446,304,325
+post_080,Instagram Posts,Education,Evening,54,0.399,0.607,1.67,1,25454,2563,323,220
+post_081,YouTube,Fitness,Morning,339,0.677,0.95,1.4,0,14553,3396,299,318
+post_082,YouTube Shorts,Data Science,Morning,15,0.374,0.584,2.663,0,43019,1628,130,488
+post_083,Instagram Reels,Machine Learning,Evening,46,0.514,0.889,2.47,0,40142,1556,329,119
+post_084,Instagram Posts,Python,Afternoon,19,0.738,0.474,4.023,1,32919,2708,3,432
+post_085,YouTube,Cooking,Morning,448,0.773,0.703,2.495,0,31170,1554,1,475
+post_086,YouTube Shorts,Productivity,Evening,34,0.724,0.564,2.859,1,12881,833,166,426
+post_087,Instagram Reels,Productivity,Afternoon,41,1.0,0.587,0.114,1,19967,1924,354,433
+post_088,Instagram Posts,Artificial Intelligence,Morning,66,0.735,0.391,4.859,0,31984,1038,310,203
+post_089,YouTube,Productivity,Afternoon,95,0.753,0.348,3.896,1,45781,1205,53,51
+post_090,YouTube Shorts,Data Science,Morning,21,0.747,0.717,2.036,1,44059,1202,179,210
+post_091,Instagram Reels,Personal Finance,Afternoon,87,0.626,0.498,2.984,1,44870,1962,130,445
+post_092,Instagram Posts,Education,Evening,38,0.117,0.801,4.09,1,42759,846,119,161
+post_093,YouTube,Artificial Intelligence,Evening,106,1.0,0.736,4.298,1,39234,3013,190,474
+post_094,YouTube Shorts,Education,Evening,59,0.543,0.574,5.023,1,21471,2285,127,477
+post_095,Instagram Reels,Cooking,Evening,53,0.581,0.831,0.0,1,5329,181,98,286
+post_096,Instagram Posts,Python,Afternoon,89,0.59,0.86,3.159,1,31851,1346,311,30
+post_097,YouTube,Personal Finance,Morning,424,0.448,0.761,3.201,1,20947,1016,44,207
+post_098,YouTube Shorts,Personal Finance,Morning,27,0.588,0.441,0.786,1,27647,2732,186,420
+post_099,Instagram Reels,Productivity,Night,34,0.856,0.249,0.906,1,34226,2604,132,123
+post_100,Instagram Posts,Education,Morning,51,0.406,0.741,3.705,1,16086,485,8,459
+post_101,YouTube,Python,Evening,20,0.786,0.805,0.684,1,31083,312,227,115
+post_102,YouTube Shorts,Productivity,Night,67,0.65,0.828,6.836,1,44855,2705,398,427
+post_103,Instagram Reels,Machine Learning,Night,34,0.57,0.477,7.288,1,49235,2570,325,74
+post_104,Instagram Posts,Data Science,Night,56,0.719,0.885,4.744,1,41199,275,344,14
+post_105,YouTube,Cooking,Night,218,0.647,0.56,1.296,0,35462,2891,126,62
+post_106,YouTube Shorts,Personal Finance,Evening,26,0.632,0.697,1.632,1,39759,1776,48,495
+post_107,Instagram Reels,Machine Learning,Afternoon,15,0.614,0.984,5.21,0,6520,320,352,207
+post_108,Instagram Posts,Productivity,Evening,27,0.6,0.526,1.349,1,17306,2323,390,418
+post_109,YouTube,Artificial Intelligence,Night,25,0.829,0.851,5.447,1,12832,649,221,262
+post_110,YouTube Shorts,Data Science,Evening,72,0.887,0.858,3.362,0,7659,1468,369,257
+post_111,Instagram Reels,Education,Night,15,0.514,0.706,2.693,0,4884,2301,158,80
+post_112,Instagram Posts,Fitness,Morning,50,0.402,0.573,6.188,0,49179,3194,97,106
+post_113,YouTube,Data Science,Afternoon,290,0.258,0.665,3.656,0,25947,2285,292,266
+post_114,YouTube Shorts,Cooking,Evening,87,0.404,0.592,2.245,0,25243,351,1,102
+post_115,Instagram Reels,Career Tips,Night,71,0.563,1.0,3.664,0,36021,2201,157,313
+post_116,Instagram Posts,Data Science,Evening,41,0.8,0.533,5.344,0,25313,1637,27,98
+post_117,YouTube,Data Science,Afternoon,236,0.686,0.663,4.206,1,34291,84,381,363
+post_118,YouTube Shorts,Machine Learning,Morning,30,0.618,0.675,2.352,1,48787,651,191,261
+post_119,Instagram Reels,Python,Morning,50,0.621,0.71,1.786,1,47974,2357,198,441
+post_120,Instagram Posts,Artificial Intelligence,Afternoon,32,0.586,0.641,3.55,0,5440,3446,245,491
+post_121,YouTube,Data Science,Morning,573,0.411,0.712,5.841,1,27734,2858,338,371
+post_122,YouTube Shorts,Fitness,Evening,45,0.548,0.667,3.039,0,18874,2045,209,367
+post_123,Instagram Reels,Cooking,Morning,37,0.323,0.73,3.785,1,38663,2112,376,204
+post_124,Instagram Posts,Artificial Intelligence,Night,32,0.375,0.673,1.663,1,32604,1448,24,224
+post_125,YouTube,Artificial Intelligence,Evening,158,0.827,0.868,6.185,1,26636,1167,97,148
+post_126,YouTube Shorts,Artificial Intelligence,Night,17,0.654,0.557,3.301,1,22687,1855,157,268
+post_127,Instagram Reels,Personal Finance,Morning,48,0.645,0.661,4.407,0,24205,515,65,186
+post_128,Instagram Posts,Productivity,Morning,87,0.612,0.829,5.159,0,282,1126,366,304
+post_129,YouTube,Python,Night,287,0.688,0.596,4.205,0,49432,2859,296,185
+post_130,YouTube Shorts,Career Tips,Morning,78,0.726,0.451,2.318,1,3043,2781,263,311
+post_131,Instagram Reels,Python,Evening,72,0.712,0.951,3.836,1,22011,2639,0,276
+post_132,Instagram Posts,Education,Afternoon,36,0.482,0.826,3.662,1,39424,2213,198,196
+post_133,YouTube,Artificial Intelligence,Afternoon,555,0.43,0.473,5.588,1,33065,256,189,306
+post_134,YouTube Shorts,Education,Afternoon,54,0.676,0.792,4.274,1,49400,1574,115,446
+post_135,Instagram Reels,Cooking,Morning,71,0.751,0.606,2.731,0,15263,2501,146,367
+post_136,Instagram Posts,Cooking,Afternoon,44,0.701,0.798,3.818,0,16655,1468,75,323
+post_137,YouTube,Career Tips,Night,215,0.547,0.774,3.605,1,4767,461,262,366
+post_138,YouTube Shorts,Fitness,Morning,38,0.383,0.92,2.699,0,37612,864,365,333
+post_139,Instagram Reels,Artificial Intelligence,Afternoon,24,0.575,0.599,4.715,0,33801,2595,81,480
+post_140,Instagram Posts,Productivity,Evening,56,0.557,0.268,3.665,1,3393,1123,287,488
+post_141,YouTube,Productivity,Evening,249,0.53,0.747,2.65,1,43780,1270,177,88
+post_142,YouTube Shorts,Education,Night,79,0.439,0.835,4.857,1,40686,1170,323,122
+post_143,Instagram Reels,Career Tips,Morning,84,0.739,0.488,4.388,0,37300,817,305,52
+post_144,Instagram Posts,Career Tips,Afternoon,62,0.924,0.687,4.34,1,23196,2051,145,204
+post_145,YouTube,Machine Learning,Afternoon,143,0.539,0.864,2.44,1,573,1591,319,67
+post_146,YouTube Shorts,Personal Finance,Morning,32,0.591,0.459,3.187,0,14466,675,378,76
+post_147,Instagram Reels,Python,Evening,47,1.0,0.554,6.184,1,3668,2060,316,124
+post_148,Instagram Posts,Machine Learning,Night,51,0.548,0.408,0.821,1,7955,1483,202,276
+post_149,YouTube,Machine Learning,Morning,308,0.789,0.692,2.419,1,49971,372,38,341
+post_150,YouTube Shorts,Cooking,Night,23,0.878,0.863,4.705,1,18563,2353,305,176
+post_151,Instagram Reels,Data Science,Afternoon,74,0.359,0.517,5.946,0,16212,2501,320,83
+post_152,Instagram Posts,Career Tips,Night,31,0.65,0.674,5.641,1,15531,1869,112,33
+post_153,YouTube,Productivity,Morning,45,0.631,0.525,3.176,1,1934,2614,329,171
+post_154,YouTube Shorts,Artificial Intelligence,Morning,17,0.211,0.499,3.126,0,2363,326,169,197
+post_155,Instagram Reels,Productivity,Evening,71,0.642,0.667,3.44,1,37563,1083,147,205
+post_156,Instagram Posts,Machine Learning,Morning,62,0.633,0.784,4.452,1,8281,615,17,411
+post_157,YouTube,Python,Morning,248,0.823,0.709,2.589,1,22546,644,350,476
+post_158,YouTube Shorts,Education,Night,87,0.346,0.446,2.946,1,12745,2572,2,283
+post_159,Instagram Reels,Cooking,Evening,56,1.0,0.984,2.859,1,2663,1303,194,309
+post_160,Instagram Posts,Machine Learning,Afternoon,36,0.613,0.372,2.228,1,37778,948,52,260
+post_161,YouTube,Artificial Intelligence,Afternoon,199,0.801,0.516,4.739,1,253,2094,357,386
+post_162,YouTube Shorts,Fitness,Morning,74,0.602,0.936,5.414,0,23838,210,136,107
+post_163,Instagram Reels,Career Tips,Night,59,0.384,0.493,6.273,1,5138,368,169,260
+post_164,Instagram Posts,Artificial Intelligence,Morning,20,0.5,0.539,2.318,1,26352,1252,136,132
+post_165,YouTube,Education,Evening,372,0.532,0.627,2.316,1,5171,179,46,229
+post_166,YouTube Shorts,Fitness,Morning,45,0.895,0.652,5.923,1,7333,3488,177,22
+post_167,Instagram Reels,Machine Learning,Night,45,0.776,0.556,4.607,1,40348,2805,391,163
+post_168,Instagram Posts,Career Tips,Afternoon,55,0.173,0.676,4.189,1,23614,449,261,160
+post_169,YouTube,Machine Learning,Evening,128,0.94,0.89,1.798,1,18061,1540,172,400
+post_170,YouTube Shorts,Fitness,Night,43,0.268,0.629,0.793,1,48471,1988,153,230
+post_171,Instagram Reels,Machine Learning,Morning,65,0.485,0.547,4.994,1,19053,1071,66,250
+post_172,Instagram Posts,Cooking,Afternoon,88,0.789,0.58,3.511,1,26403,2894,388,463
+post_173,YouTube,Artificial Intelligence,Night,365,0.749,0.937,6.209,0,19745,3224,231,489
+post_174,YouTube Shorts,Python,Morning,61,0.954,0.725,3.208,1,7721,2982,95,248
+post_175,Instagram Reels,Machine Learning,Night,50,0.642,0.705,1.212,1,43962,2978,226,29
+post_176,Instagram Posts,Machine Learning,Morning,66,0.551,0.277,4.064,0,4019,3372,316,427
+post_177,YouTube,Personal Finance,Afternoon,124,0.437,0.67,0.0,1,40585,857,225,319
+post_178,YouTube Shorts,Education,Evening,70,0.877,0.16,2.974,1,44084,2782,88,418
+post_179,Instagram Reels,Python,Night,36,0.743,0.991,3.235,1,26118,1518,276,289
+post_180,Instagram Posts,Artificial Intelligence,Evening,62,0.626,0.379,4.012,1,48060,1828,372,107
+post_181,YouTube,Career Tips,Evening,96,0.778,0.322,1.665,1,47376,787,323,207
+post_182,YouTube Shorts,Education,Morning,33,0.762,1.0,3.215,1,6860,1509,145,17
+post_183,Instagram Reels,Machine Learning,Morning,55,0.424,1.0,4.188,1,35348,1828,361,194
+post_184,Instagram Posts,Python,Night,38,0.372,0.723,7.043,1,36164,1873,27,457
+post_185,YouTube,Personal Finance,Morning,347,0.579,0.592,5.249,1,48443,2769,75,256
+post_186,YouTube Shorts,Machine Learning,Night,30,0.896,0.884,5.327,1,6522,3415,247,421
+post_187,Instagram Reels,Data Science,Afternoon,86,0.625,0.726,4.601,0,27266,755,388,218
+post_188,Instagram Posts,Cooking,Afternoon,73,0.567,0.63,0.446,1,5881,315,289,38
+post_189,YouTube,Productivity,Morning,472,0.447,0.539,6.259,1,1951,3011,82,141
+post_190,YouTube Shorts,Education,Morning,77,0.594,0.764,1.062,1,28237,173,142,76
+post_191,Instagram Reels,Education,Afternoon,19,0.514,0.785,4.061,1,26953,2787,80,253
+post_192,Instagram Posts,Personal Finance,Evening,80,0.316,0.887,6.062,1,23702,792,162,218
+post_193,YouTube,Fitness,Afternoon,569,0.636,0.621,3.223,1,9303,651,261,87
+post_194,YouTube Shorts,Fitness,Afternoon,27,0.814,0.778,4.942,0,38198,659,328,53
+post_195,Instagram Reels,Productivity,Afternoon,52,0.677,0.645,2.808,1,49741,1795,191,460
+post_196,Instagram Posts,Career Tips,Morning,88,0.352,0.919,3.341,1,29974,3434,6,234
+post_197,YouTube,Career Tips,Evening,540,0.511,0.601,4.518,0,32479,3162,171,228
+post_198,YouTube Shorts,Fitness,Night,29,0.648,0.981,4.243,1,46510,3362,281,185
+post_199,Instagram Reels,Productivity,Afternoon,47,0.828,0.667,1.284,1,23093,2093,298,174
+post_200,Instagram Posts,Artificial Intelligence,Morning,44,0.627,0.253,3.257,1,28248,389,39,478
+post_201,YouTube,Personal Finance,Morning,105,0.971,0.741,4.614,1,44164,594,283,418
+post_202,YouTube Shorts,Artificial Intelligence,Afternoon,72,0.355,0.719,3.922,1,19245,447,282,275
+post_203,Instagram Reels,Personal Finance,Evening,68,0.559,0.461,4.181,0,37449,722,179,219
+post_204,Instagram Posts,Personal Finance,Morning,36,0.895,0.719,3.219,1,36008,844,363,375
+post_205,YouTube,Artificial Intelligence,Evening,198,0.656,0.672,4.587,1,15287,3152,94,269
+post_206,YouTube Shorts,Cooking,Night,19,0.892,0.603,0.118,0,23681,2148,176,444
+post_207,Instagram Reels,Personal Finance,Evening,84,0.545,0.854,5.757,1,987,1641,197,245
+post_208,Instagram Posts,Career Tips,Evening,49,0.826,0.45,7.216,1,9999,2775,27,423
+post_209,YouTube,Cooking,Morning,597,0.933,0.613,5.112,1,20202,2878,242,314
+post_210,YouTube Shorts,Education,Afternoon,47,0.469,0.759,4.312,1,37386,204,251,474
+post_211,Instagram Reels,Cooking,Evening,45,0.355,0.547,2.289,0,8938,3426,105,460
+post_212,Instagram Posts,Education,Morning,73,0.467,0.454,1.908,1,17242,3375,224,132
+post_213,YouTube,Python,Evening,266,0.313,0.665,3.204,1,38638,2583,334,420
+post_214,YouTube Shorts,Machine Learning,Morning,66,0.836,0.261,4.222,1,44898,1817,291,404
+post_215,Instagram Reels,Cooking,Morning,21,0.606,0.368,0.0,1,9604,1976,164,217
+post_216,Instagram Posts,Career Tips,Night,71,0.595,0.529,4.28,1,32699,1412,97,461
+post_217,YouTube,Python,Afternoon,159,0.416,0.65,5.639,1,23517,609,74,201
+post_218,YouTube Shorts,Career Tips,Afternoon,33,0.669,0.621,2.909,1,30147,960,47,127
+post_219,Instagram Reels,Machine Learning,Afternoon,25,0.494,0.756,8.846,1,42364,896,14,42
+post_220,Instagram Posts,Artificial Intelligence,Evening,74,0.782,0.872,3.946,0,12558,2969,28,113
+post_221,YouTube,Productivity,Evening,44,0.846,0.44,2.105,1,38046,427,312,79
+post_222,YouTube Shorts,Education,Evening,23,0.825,0.661,3.233,1,2506,2872,64,374
+post_223,Instagram Reels,Fitness,Evening,36,0.76,0.391,3.696,1,25362,3002,158,416
+post_224,Instagram Posts,Cooking,Night,88,0.885,0.757,2.906,1,39878,661,134,397
+post_225,YouTube,Career Tips,Afternoon,577,0.78,0.683,7.897,1,17732,2308,189,35
+post_226,YouTube Shorts,Education,Morning,31,0.675,0.66,4.108,0,30112,1340,244,489
+post_227,Instagram Reels,Career Tips,Morning,82,0.72,0.619,0.693,0,30396,3272,331,473
+post_228,Instagram Posts,Python,Morning,49,0.425,0.563,5.811,1,22732,1220,327,432
+post_229,YouTube,Cooking,Afternoon,33,0.602,0.817,2.637,1,37535,1837,346,111
+post_230,YouTube Shorts,Cooking,Night,70,0.38,0.734,2.762,1,39817,809,163,13
+post_231,Instagram Reels,Data Science,Night,87,0.531,0.685,0.0,1,26674,432,179,30
+post_232,Instagram Posts,Fitness,Morning,38,0.597,0.555,0.0,0,6599,495,105,486
+post_233,YouTube,Artificial Intelligence,Afternoon,544,0.513,0.565,4.691,1,10746,657,48,190
+post_234,YouTube Shorts,Python,Night,19,0.855,0.678,1.907,1,4434,2710,14,315
+post_235,Instagram Reels,Career Tips,Afternoon,82,0.624,0.621,1.004,1,22480,589,187,34
+post_236,Instagram Posts,Artificial Intelligence,Night,46,0.652,0.59,6.259,0,34516,1157,381,343
+post_237,YouTube,Fitness,Night,516,0.515,0.716,2.715,0,10987,2277,363,55
+post_238,YouTube Shorts,Machine Learning,Evening,89,0.85,0.773,6.678,1,7925,2183,369,67
+post_239,Instagram Reels,Data Science,Night,67,0.474,0.547,1.697,1,22452,1524,34,498
+post_240,Instagram Posts,Machine Learning,Afternoon,40,1.0,0.579,3.73,1,27116,1748,33,309
